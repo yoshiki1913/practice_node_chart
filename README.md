@@ -37,6 +37,7 @@ python -m SimpleHTTPServer
 
 ### 参考記事
 Cors周り
+
 https://qiita.com/chenglin/items/5e563e50d1c32dadf4c3
 
 Python 軽量Webサーバー
